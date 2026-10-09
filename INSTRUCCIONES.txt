@@ -1,0 +1,5 @@
+VYTRA v0.0.3
+
+Sube esta CARPETA completa a tu proyecto EXISTENTE vytra-fitness en Netlify > Deploys. No crees un proyecto nuevo. Si Netlify Drop crea otro sitio, no uses esa opción: actualiza el proyecto existente desde Deploys.
+
+Abre https://vytra-fitness.netlify.app en Safari y recarga. Si el icono antiguo sigue, elimina solo el acceso directo de pantalla de inicio y vuelve a añadirlo desde Safari. Los datos se guardan localmente; eliminar la web app podría borrar sus datos. Haz copia de cualquier registro importante antes.
